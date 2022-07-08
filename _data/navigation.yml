@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "People"
+    url: /People/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /Projects/
+  - title: "Contact"
+    url: /Contact/
+  #- title: "About"
+  #  url: test/_pages/404.md
+
+  
