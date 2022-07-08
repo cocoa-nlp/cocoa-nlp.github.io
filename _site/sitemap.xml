@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/Contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/People/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/publishedpapers/WNU22_NarrativeDetection.pdf</loc>
+<lastmod>2022-07-08T04:32:45-04:00</lastmod>
+</url>
+</urlset>
