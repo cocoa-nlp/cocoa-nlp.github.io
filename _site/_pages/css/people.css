@@ -78,6 +78,15 @@
    font-weight: bold;
    text-align: center;
 }
+.container .card .content .contentBx h5 span
+{
+   color: #6c758f;
+   font-size: 1rem;
+   margin-top: 0px;
+   font-weight: bold;
+   text-align: center;
+}
+
 .container .card .content .sci
 {
    margin-top: 0px;

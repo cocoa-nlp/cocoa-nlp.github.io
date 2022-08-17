@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 <p><h1>Publications</h1></p>
+<h2>2022</h2>
 <ul>
 <li><b>Narrative Detection and Feature Analysis in Online Health Communities</b><br>
 Achyutarama R. Ganti, Steven Wilson, Zexin, Ma, Xinyan, Ma, Rong Ma <br>
