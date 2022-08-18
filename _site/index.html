@@ -192,6 +192,7 @@
 <head>
 
 <style>
+/*
 * {
         box-sizing: border-box
       }
@@ -210,8 +211,9 @@
         max-height: 1000px;
         position: relative;
         margin: auto;
-      }
+      }*/
       /* Next & previous buttons */
+      /*
       .prev,
       .next {
         cursor: pointer;
@@ -226,19 +228,26 @@
         transition: 1s ease;
         border-radius: 0 3px 3px 0;
         user-select: none;
-      }
+      } */
       /* Position the "next button" to the right */
+
+      /*
       .next {
         right: 0;
         border-radius: 3px 0 0 3px;
       }
+*/
+
       /* On hover, add a black background color with a little bit see-through */
+ /*
       .prev:hover,
       .next:hover {
         background-color: rgba(0, 0, 0, 0.8);
       }
+
+      */
       /* Caption text */
-      .text {
+ /*     .text {
         color: #ffffff;
         font-size: 15px;
         padding: 8px 12px;
@@ -246,17 +255,17 @@
         bottom: 8px;
         width: 100%;
         text-align: center;
-      }
+      }*/
       /* Number text (1/3 etc) */
-      .numbertext {
+ /*     .numbertext {
         color: #ffffff;
         font-size: 12px;
         padding: 8px 12px;
         position: absolute;
         top: 0;
-      }
+      }*/
       /* The dots/bullets/indicators */
-      .dot {
+ /*     .dot {
         cursor: pointer;
         height: 15px;
         width: 15px;
@@ -269,9 +278,9 @@
       .active,
       .dot:hover {
         background-color: #111111;
-      }
+      }*/
       /* Fading animation */
-      .fade {
+/*      .fade {
         -webkit-animation-name: fade;
         -webkit-animation-duration: 30s;
         animation-name: fade;
@@ -292,17 +301,16 @@
         to {
           opacity: 1
         }
-      }
+      }*/
       /* On smaller screens, decrease text size */
-      @media only screen and (max-width: 300px) {
+ /*     @media only screen and (max-width: 300px) {
         .prev,
         .next,
         .text {
           font-size: 11px
         }
-      }
+      }*/
 </style>
-
 
 </head>
 <body>
@@ -333,61 +341,7 @@
         
       </section>
   
-      <section>
-        <h2 id="gallery">Gallery<a class="header-link" href="#gallery" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
-
-      <div class="slideshow-container">
-        <div class="mySlides fade">
-          <div class="numbertext">1 / 6</div>
-          <img src="assets/images/oubuilding1.jpg" style="width:200%">
-          
-        </div>
-        <div class="mySlides fade">
-          <div class="numbertext">2 / 6</div>
-          <img src="assets/images/oubuilding7.jpg" style="width:200%">
-          
-        </div>
-        <div class="mySlides fade">
-          <div class="numbertext">3 / 6</div>
-          <img src="assets/images/oubuilding3.jpg" style="width:200%">
-          
-        </div>
-        <div class="mySlides fade">
-          <div class="numbertext">4 / 6</div>
-          <img src="assets/images/oubuilding4.jpg" style="width:200%">
-          
-        </div>
-        <div class="mySlides fade">
-          <div class="numbertext">5 / 6</div>
-          <img src="assets/images/outower.png" style="width:200%">
-          
-        </div>
-        <div class="mySlides fade">
-          <div class="numbertext">6 / 6</div>
-          <img src="assets/images/oubuilding5.jpg" style="width:200%">
-          
-        </div>
-        
-      </div>
-      <br>
-      
-      <script>
-        var slideIndex = 0;
-        showSlides();
-        function showSlides() {
-          var i;
-          var slides = document.getElementsByClassName("mySlides");
-          for(i = 0; i < slides.length; i++) {
-            slides[i].style.display = "none";
-          }
-          slideIndex++;
-          if(slideIndex > slides.length) {
-            slideIndex = 1
-          }
-          slides[slideIndex - 1].style.display = "block";
-          setTimeout(showSlides, 3000); // Change image every 2 seconds
-        }
-      </script>
+     
 </body>
 
 </html>

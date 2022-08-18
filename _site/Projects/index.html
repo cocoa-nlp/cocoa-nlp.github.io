@@ -163,40 +163,40 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
    
-   <title><Meet The Team></title>
-      <style>
+   <title><Projects></title>
+      <style media = "screen">
+         html {box-sizing: border-box;}
+    *,
+    *:before,
+    *:after {
+        box-sizing: inherit;
+        padding: 0;
+        margin: 0;
+    }
          
-         .banner {
+   .banner {
     color: gray;
     margin-top: 10px;
     text-align: center;
     font-size: x-large;
 }
-.row{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-wrap: wrap;
-
-  flex-direction: column;
-  flex: 1 1 50%;
-  grid-template-columns: 1fr 1fr;
-
-}
-.column{
-   font-size: small;
-   display: flex;
-   align-items: center;
-   flex-wrap: wrap;
-   padding: 60px 30px;
-   margin: 20px;
-   border-radius: 9px;
-  flex-direction: column;
-  flex: 1 1 50%;
-  justify-content: flex-end;
-  grid-template-columns: 1fr 1fr;
-}
-
+.container{
+    display: flex;
+    padding: 1em;
+  
+    }
+    
+     .columns{
+        flex: 1;
+        align-self: baseline;
+        border: 1px solid grey;
+        padding: 15px;
+        min-width: 100px;
+        display: inline-block; 
+        border-radius: 9px;
+        margin: 20px;
+        font-size: medium;
+        }
         
          </style>
 </head>
@@ -204,81 +204,50 @@
    <div class = "banner">
       <h1>Current Projects</h1>
       </div>
-      <div class = "row">
-      <div class = "column" style="border: 1px solid grey; padding: 15px; min-width:100px; display: inline-block">
-         <h2>Narrative Detection</h2>
-
-         Narratives have been shown to be an effective way to communicate health risks and promote health behavior change, 
-         and given the growing amount of health information being shared on social media, it is crucial to study health-related 
-         narratives in social media. However, expert identification of a large number of narrative texts is a time consuming 
-         process, and larger scale studies on the use of narratives may be enabled through automatic text classification approaches. 
-         Prior work has demonstrated that automatic narrative detection is possible, but modern deep learning approaches 
-         have not been used for this task in the domain of online health communities. Therefore, in this paper, we explore 
-         the use of deep learning methods to automatically classify the presence of narratives in social media posts, finding 
-         that they outperform previously proposed approaches. We also find that in many cases, these models generalize well 
-         across posts from different health organizations. Finally, in order to better understand the increase in performance 
-         achieved by deep learning models, we use feature analysis techniques to explore the features that most contribute to 
-         narrative detection for posts in online health communities.
-       </div>
-
-       <div class = "column" style="border: 1px solid grey; padding: 15px; min-width:100px; display: inline-block">
-         <h2>Sarcasm Detection</h2>
-
-         iSarcasmEval is the first shared task to target
-         intended sarcasm detection: the data for this
-         task was provided and labelled by the authors
-         of the texts themselves. Such an approach minimises the downfalls of other methods to collect
-         sarcasm data, which rely on distant supervision or third-party annotations. The shared task
-         contains two languages, English and Arabic,
-         and three subtasks: sarcasm detection, sarcasm
-         category classification, and pairwise sarcasm
-         identification given a sarcastic sentence and
-         its non-sarcastic rephrase. The task received
-         submissions from 60 different teams, with the
-         sarcasm detection task being the most popular. Most of the participating teams utilised
-         pre-trained language models. In this paper, we
-         provide an overview of the task, data, and participating teams.
-       </div>
-      </div>
+      <section class = "container">
+         <article class = "columns">
+            <h2> Social Media Narratives </h2>
+            Sharing stories with one another is a compelling form of communication and the way in which stories are 
+              organized helps to give a larger meaning to facts and events in text. We are developing methods to model 
+              narrative style and the collective building of narratives on social media in order to provide a larger 
+              contextual background for individual posts, as well as gaining a richer understanding of the stories that 
+              people are sharing and their effects on others.
+     
+                    
+         </article>
+         
+         <article class = "columns">
+                    <h2>Sarcasm, Humor And Slang In Online Communication</h2>
+           
+                    The text that people write online in informal settings often contains features that cause problems to traditional 
+              NLP pipelines, such as sarcasm, humor, and slang. We are working to develop new datasets, methods, and tools 
+              that enable better semantic representations of this type of text to both improve our NLP models and to better 
+              understand these phenomena and the people that use them in their writing.
+     
+                  </article>
+            </section>
       <div class = "banner">
          <h1>Past Projects</h1>
          </div>
-         <div class = "row">
-            <div class = "column" style="border: 1px solid grey; padding: 15px; min-width:100px; display: inline-block">
-               <h2>Understanding Personal Values</h2>
-      
-               There are several standard methods used to measure personal values, 
-               including the Schwartz Values Survey and the World Values
-Survey. While these tools are based on well-established questionnaires,
-they are expensive to administer at a large scale and rely on respondents
-to self-report their values rather than observing what people actually
-choose to write about. We employ a lexicon-based method that can computationally measure personal values on a large scale. Our approach is
-not limited to word-counting as we explore and evaluate several alternative approaches to quantifying the usage of value-related themes in
-a given document. We apply our methodology to a large blog dataset
-comprised of text written by users from different countries around the
-world in order to quantify cultural differences in the expression of person
-values on blogs. Additionally, we analyze the relationship between the
-value themes expressed in blog posts and the values measured for some
-of the same countries using the World Values Survey.
-             </div>
-      
-             <div class = "column" style="border: 1px solid grey; padding: 15px; min-width:100px; display: inline-block">
-               <h2>Finding Optimists and Pessimists on Twitter</h2>
-      
-               Optimism is linked to various personality factors as well as both psychological
-               and physical health, but how does it relate to the way a person tweets? We an-
-               alyze the online activity of a set of Twitter users in order to determine how well
-               machine learning algorithms can detect a
-               person’s outlook on life by reading their
-               tweets. A sample of tweets from each user
-               is manually annotated in order to establish ground truth labels, and classifiers are
-               trained to distinguish between optimistic
-               and pessimistic users. Our results suggest that the words in people’s tweets pro-
-               vide ample evidence to identify them as
-               optimists, pessimists, or somewhere in between. Additionally, several applications
-               of these trained models are explored.
-             </div>
-            </div>
+         <section class = "container">
+            <article class = "columns">
+               <h2> Personal Values And Human Activities </h2>
+               The things that people choose to talk about are, in some ways, a reflection of what is important to them. 
+                       We explore how language use is connected to personal values, which are, in turn, connected to what people 
+                       choose to do. Using data from free-response surveys and social media, we build models and lexical resources 
+                       for the measurement of personal values in text.
+        
+                       
+            </article>
+            
+            <article class = "columns">
+                       <h2>Online Harms And Misinformation</h2>
+              
+                       We are focused on applying our NLP methods to helping to make the internet a safer place. This includes using 
+                       computational approaches to detecting, characterizing, and combating offensive language, bias, and misinformation 
+                       that is common in online text-based datasets.
+                     </article>
+               </section>  
 </div>
 </body>
 </html>
