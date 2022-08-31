@@ -1,15 +1,8 @@
----
-title:  "Contact"
-layout: splash
-permalink: /Contact/
-
----
-
-<html lang="en">
+I"H<html lang="en">
 <head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta charset="UTF-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    <style type="text/css">
     u {    
     border-bottom: 1px dotted #000;
@@ -24,9 +17,9 @@ permalink: /Contact/
 <body>
 
 
-<section class = "page_content" itemprop = "text">
+<section class="page_content" itemprop="text">
 <p><h1>Contact</h1></p>
-<p>For general inquiries about the lab, please contact <a href = "mailto:stevenwilson@oakland.edu">Prof.Steven Wilson</a>
+<p>For general inquiries about the lab, please contact <a href="mailto:stevenwilson@oakland.edu">Prof.Steven Wilson</a>
 </p>
 </section>
 <p><h2><strong>Prospective Students </strong></h2></p>
@@ -65,3 +58,4 @@ permalink: /Contact/
 
 </body>
 </html>
+:ET

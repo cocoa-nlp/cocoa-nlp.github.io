@@ -1,15 +1,8 @@
----
-title:  "Contact"
-layout: splash
-permalink: /Contact/
-
----
-
-<html lang="en">
+I"F<html lang="en">
 <head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta charset="UTF-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    <style type="text/css">
     u {    
     border-bottom: 1px dotted #000;
@@ -24,9 +17,9 @@ permalink: /Contact/
 <body>
 
 
-<section class = "page_content" itemprop = "text">
+<section class="page_content" itemprop="text">
 <p><h1>Contact</h1></p>
-<p>For general inquiries about the lab, please contact <a href = "mailto:stevenwilson@oakland.edu">Prof.Steven Wilson</a>
+<p>For general inquiries about the lab, please contact <a href="mailto:stevenwilson@oakland.edu">Prof.Steven Wilson</a>
 </p>
 </section>
 <p><h2><strong>Prospective Students </strong></h2></p>
@@ -53,7 +46,7 @@ permalink: /Contact/
 <section><p>You will likely be a good candidate if you are interested in how we can use NLP to study online communication, are willing to learn about new topics outside of the field of CS, have a strong math and programming background, and are an effective communicator. Prior research experience in NLP or computational social science is a plus, but not a requirement.</p></section>
 
 
-<p><h2><strong>BS / MS students</strong></h2></p>
+<p><h2><strong>BS/MS students</strong></h2></p>
 <p>We often have opportunities for undergraduate and masters students to get involved in our lab either for course credits, thesis work, or with research assistant positions. It can be helpful to have taken the follow (or equivalent) courses, but it is not strictly necessary: STA 2226, CSI 2300, and one course related to AI (e.g., CSI 4130/5130, CSI 4140/5140, CSI 4340/5340, CSI 4810/5810 or other courses from the Intelligent Computing track). If you are interested, please send us your updated resume and transcripts via email..</p>
 
 
@@ -65,3 +58,4 @@ permalink: /Contact/
 
 </body>
 </html>
+:ET
