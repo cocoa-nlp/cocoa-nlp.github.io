@@ -26,14 +26,14 @@ permalink: /Contact/
 
 <section class = "page_content" itemprop = "text">
 <p><h1>Contact</h1></p>
-<p>For general inquiries about the lab, please contact <a href = "mailto:stevenwilson@oakland.edu">Prof.Steven Wilson</a>
+<p>For general inquiries about the lab, please contact <a href = "mailto:stevenwilson@oakland.edu">Prof. Steven Wilson</a>
 </p>
 </section>
 <p><h2><strong>Prospective Students </strong></h2></p>
 <p>We are always looking for motivated and talented researchers to join our team. Please feel free to reach out if you want more information about the lab or if you're interested in doing NLP research at Oakland University.</p>
 <p><h2><strong>PhD Students </strong></h2></p>
 <p>If you are a current OU student or have been admitted and would like to learn more about working in the lab, please reach out to Prof. Wilson to set up a meeting. Your application packet will already be on file with the University so there is no need to share those documents again.</p>
-<p>If you have recently applied or are considering applying to OU for a PhD and would like to explore whether our lab will be a good fit, please send a message to Prof.Wilson including the following:</p>
+<p>If you have recently applied or are considering applying to OU for a PhD and would like to explore whether there are any open positions in our lab that will be a good fit, please send a message to Prof. Wilson including the following:</p>
 
 <ul>
 <li>CV / resume</li>
