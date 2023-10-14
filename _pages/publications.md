@@ -9,7 +9,7 @@ permalink: /publications/
 <ul>
 
 <li><b>Narrative Style and the Spread of Health Misinformation on Twitter</b><br>
-Achyutarama R. Ganti, Eslam Ali Hassan Hussein, Steven Wilson, Zexin Ma, Xinyan Zhao <br>
+Achyutarama R. Ganti<sup>1</sup>, Eslam Ali Hassan Hussein<sup>1</sup>, Steven Wilson, Zexin Ma, Xinyan Zhao <br>
 <font size = "-1"><em>In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Findings Dec 2023</em></font> <br>
 
  </li>
