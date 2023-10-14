@@ -7,6 +7,20 @@ permalink: /publications/
 <p><h1>Publications</h1></p>
 <h2>2023</h2>
 <ul>
+ 
+<li><b>ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments</b><br>
+Jaydeb Sarker, Sayma Sultana, Steven R. Wilson, and Amiangshu Bosu <br>
+<font size = "-1"><em>In Proceedings of the 17th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement Oct 2023</em></font> <br>
+
+ </li>
+
+ 
+<li><b>Mr-wallace at SemEval-2023 Task 5: Novel Clickbait Spoiling Algorithm Using Natural Language Processing</b><br>
+Vineet Saravanan and Steven Wilson <br>
+<font size = "-1"><em>In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023) Jul 2023</em></font> <br>
+
+ </li>
+ 
 <li><b>What Are You Anxious About? Examining Subjects of Anxiety during the COVID-19 Pandemic</b><br>
 Lucia Chen, Steven Wilson, Daniela Negraia, Sophie Lohmann <br>
 <font size = "-1"><em>In Proceedings of the 17th International AAAI Conference on Web and Social Media Jun 2023</em></font> <br>
