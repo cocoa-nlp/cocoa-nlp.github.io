@@ -24,6 +24,7 @@ Vineet Saravanan and Steven Wilson <br>
 <li><b>What Are You Anxious About? Examining Subjects of Anxiety during the COVID-19 Pandemic</b><br>
 Lucia Chen, Steven Wilson, Daniela Negraia, Sophie Lohmann <br>
 <font size = "-1"><em>In Proceedings of the 17th International AAAI Conference on Web and Social Media Jun 2023</em></font> <br>
+<a href="/_pages/publishedpapers/what_ru_axious_about.pdf" style = "color:#7393B3;" target = "_blank">[paper]</a>
 
  </li>
 
@@ -33,6 +34,7 @@ Lucia Chen, Steven Wilson, Daniela Negraia, Sophie Lohmann <br>
 <li><b>SOS: Systematic Offensive Stereotyping Bias in Word Embeddings</b><br>
 Fatma Elsafoury, Steven Wilson, Katsigiannis Stamos, Naeem Ramzan <br>
 <font size = "-1"><em>In Proceedings of the 29th International Conference on Computational Linguistics Oct 2022 </em></font> <br>
+<a href="/_pages/publishedpapers/systematic_offensive_stereotypic_bias.pdf" style = "color:#7393B3;" target = "_blank">[paper]</a>
 
  </li>
 
