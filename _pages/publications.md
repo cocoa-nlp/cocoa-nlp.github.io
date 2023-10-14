@@ -7,6 +7,12 @@ permalink: /publications/
 <p><h1>Publications</h1></p>
 <h2>2023</h2>
 <ul>
+
+<li><b>Narrative Style and the Spread of Health Misinformation on Twitter</b><br>
+Achyutarama R. Ganti, Eslam Ali Hassan Hussein, Steven Wilson, Zexin Ma, Xinyan Zhao <br>
+<font size = "-1"><em>In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Findings Dec 2023</em></font> <br>
+
+ </li>
  
 <li><b>ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments</b><br>
 Jaydeb Sarker, Sayma Sultana, Steven R. Wilson, and Amiangshu Bosu <br>
