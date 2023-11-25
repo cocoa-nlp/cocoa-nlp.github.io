@@ -24,6 +24,7 @@ Jaydeb Sarker, Sayma Sultana, Steven R. Wilson, and Amiangshu Bosu <br>
 <li><b>Mr-wallace at SemEval-2023 Task 5: Novel Clickbait Spoiling Algorithm Using Natural Language Processing</b><br>
 Vineet Saravanan and Steven Wilson <br>
 <font size = "-1"><em>In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023) Jul 2023</em></font> <br>
+<a href="https://aclanthology.org/2023.semeval-1.225/" style = "color:#7393B3;" target = "_blank">[paper]</a>
 
  </li>
  
