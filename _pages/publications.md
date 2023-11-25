@@ -17,7 +17,7 @@ Achyutarama R. Ganti<sup>1</sup>, Eslam Ali Hassan Hussein<sup>1</sup>, Steven W
 <li><b>ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments</b><br>
 Jaydeb Sarker, Sayma Sultana, Steven R. Wilson, and Amiangshu Bosu <br>
 <font size = "-1"><em>In Proceedings of the 17th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement Oct 2023</em></font> <br>
-
+<a href="https://arxiv.org/abs/2307.03386" style = "color:#7393B3;" target = "_blank">[paper]</a>
  </li>
 
  
@@ -48,6 +48,7 @@ Fatma Elsafoury, Steven Wilson, Katsigiannis Stamos, Naeem Ramzan <br>
 <li><b>Don’t Take it Personally: Analyzing Gender and Age Differences in Ratings of Online Humor</b><br>
 J.A.Meaney, Steven Wilson, Lius Chiruzzo, Walid Magdy <br>
 <font size = "-1"><em>In Proceedings of the 13th International Conference on Social Informatics Oct 2022  </em></font> <br>
+<a href="https://arxiv.org/abs/2208.10898" style = "color:#7393B3;" target = "_blank">[paper]</a>
 
  </li>
 
