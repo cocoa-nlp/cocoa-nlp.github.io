@@ -29,8 +29,12 @@ permalink: /Contact/
 <p>For general inquiries about the lab, please contact <a href = "mailto:stevenwilson@oakland.edu">Prof. Steven Wilson</a>
 </p>
 </section>
+
+<!--
 <p><h2><strong>Prospective Students </strong></h2></p>
 <p>We are always looking for motivated and talented researchers to join our team. Please feel free to reach out if you want more information about the lab or if you're interested in doing NLP research at Oakland University.</p>
+-->
+
 <p><h2><strong>PhD Students </strong></h2></p>
 <p>If you are a current OU student or have been admitted and would like to learn more about working in the lab, please reach out to Prof. Wilson to set up a meeting. Your application packet will already be on file with the University so there is no need to share those documents again.</p>
 <p>If you have recently applied or are considering applying to OU for a PhD and would like to explore whether there are any open positions in our lab that will be a good fit, please send a message to Prof. Wilson including the following:</p>
@@ -54,7 +58,7 @@ permalink: /Contact/
 
 
 <p><h2><strong>BS / MS students</strong></h2></p>
-<p>We often have opportunities for undergraduate and masters students to get involved in our lab either for course credits, thesis work, or with research assistant positions. It can be helpful to have taken the follow (or equivalent) courses, but it is not strictly necessary: STA 2226, CSI 2300, and one course related to AI (e.g., CSI 4130/5130, CSI 4140/5140, CSI 4340/5340, CSI 4810/5810 or other courses from the Intelligent Computing track). If you are interested, please send us your updated resume and transcripts via email..</p>
+<p>We often have opportunities for current OU undergraduate and masters students to get involved in our lab either for course credits, thesis work, or with research assistant positions. It can be helpful to have taken the follow (or equivalent) courses, but it is not strictly necessary: STA 2226, CSI 2300, and one course related to AI (e.g., CSI 4130/5130, CSI 4140/5140, CSI 4340/5340, CSI 4810/5810 or other courses from the Intelligent Computing track). If you are interested, please send us your updated resume and transcripts via email..</p>
 
 
 
