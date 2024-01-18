@@ -25,7 +25,14 @@
     "github": "https://github.com/sethjones",
     "linkedin": "https://www.linkedin.com/in/sethjones-dtw"
   },
- 
+ {
+    "name": "Souha Ben Hassine",
+    "position": "PhD Student",
+    "image": "souhe.jpeg",
+    "email": "souhabenhassine@oakland.edu",
+    "github": "https://github.com/Souha-BH",
+    "linkedin": "https://www.linkedin.com/in/souha-ben-hassine-58a3a017b/"
+  },
   
   {
     "name": "Jood Otey",
@@ -35,14 +42,7 @@
     "github": "https://github.com/wetey",
     "linkedin": "https://www.linkedin.com/in/joodotey"
   },
-  {
-    "name": "Souha Ben Hassine",
-    "position": "Research Intern",
-    "image": "souhe.jpeg",
-    "email": "benhassinesouha999@gmail.com",
-    "github": "https://github.com/Souha-BH",
-    "linkedin": "https://www.linkedin.com/in/souha-ben-hassine-58a3a017b/"
-  },
+  
   {
     "name": "Yosra Abdessamed",
     "position": "Research Intern",
