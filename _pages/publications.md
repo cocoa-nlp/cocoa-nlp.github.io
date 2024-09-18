@@ -13,7 +13,7 @@ Rada Mihalcea, Laura Biester, Ryan Boyd, Zhijing Jin, Veronica Perez-Rosas, Stev
  </li>
  <li><b>OUNLP at SemEval-2024 Task 9: Retrieval-Augmented Generation for Solving Brain Teasers with LLMs</b><br>
 Vineet Saravanan, and Steven Wilson <br>
-<font size = "-1"><em>n Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024) Jun 2024</em></font> <br>
+<font size = "-1"><em>In Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024) Jun 2024</em></font> <br>
  </li>
  <li><b>Representation and Generation of Machine Learning Test Functions</b><br>
 Souha Ben Hassine, and Steven Wilson <br>
