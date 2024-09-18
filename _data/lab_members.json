@@ -4,7 +4,7 @@
     "position": "Assistant Professor",
     "image": "steve.jpg",
     "website": "https://steverw.com",
-    "email": "stevenwilson@oakland.edu",
+    "email": "steverw@umich.edu",
     "github": "https://github.com/steve-wilson",
     "twitter": "https://twitter.com/SteveWilsonNLP"
   },
@@ -13,59 +13,25 @@
     "position": "PhD Student",
     "image": "achyut.png",
     "website": "https://achyutganti.com",
-    "email": "ganti@oakland.edu",
+    "email": "arganti@umich.edu",
     "github": "https://github.com/achyutganti",
     "twitter": "https://twitter.com/achyutganti"
   },
   {
-    "name": "Seth Jones",
+    "name": "Souha Ben Hassine",
     "position": "PhD Student",
+    "image": "souhe.jpeg",
+    "email": "souhabh@umich.edu",
+    "github": "https://github.com/Souha-BH",
+    "linkedin": "https://www.linkedin.com/in/souha-ben-hassine-58a3a017b/"
+  },
+  {
+    "name": "Seth Jones",
+    "position": "PhD Collaborator",
     "image": "sethjones.jpeg",
     "email": "sethjones@oakland.edu",
     "github": "https://github.com/sethjones",
     "linkedin": "https://www.linkedin.com/in/sethjones-dtw"
-  },
- {
-    "name": "Souha Ben Hassine",
-    "position": "PhD Student",
-    "image": "souhe.jpeg",
-    "email": "souhabenhassine@oakland.edu",
-    "github": "https://github.com/Souha-BH",
-    "linkedin": "https://www.linkedin.com/in/souha-ben-hassine-58a3a017b/"
-  },
-  
-  {
-    "name": "Jood Otey",
-    "position": "MS Student",
-    "image": "jood.jpg",
-    "email": "joodotey@oakland.edu",
-    "github": "https://github.com/wetey",
-    "linkedin": "https://www.linkedin.com/in/joodotey"
-  },
-  
-  {
-    "name": "Yosra Abdessamed",
-    "position": "Research Intern",
-    "image": "yosra.jpg",
-    "email": "yosra.abdessamed@insat.ucar.tn",
-    "github": "https://github.com/Yosra1998",
-    "linkedin": "https://www.linkedin.com/in/yosra-abdessamed-10a066190/"
-  },
-  {
-    "name": "Zeineb Moalla",
-    "position": "UG Researcher",
-    "image": "zeineb.jpg",
-    "email": "zeinebmoalla@oakland.edu",
-    "github": "https://github.com/Zeineb-Moalla",
-    "linkedin": "https://www.linkedin.com/in/zeineb-moalla-660465175/"
-  },
-  {
-    "name": "Matthew Hummel",
-    "position": "UG Student",
-    "image": "hummel.png",
-    "email": "matthewhummel@oakland.edu",
-    "github": "https://github.com/MatthewHummel",
-    "linkedin": "https://www.linkedin.com/in/matthew-hummel-9777a4195/"
   },
   {
     "name": "Vineet Saravanan",
