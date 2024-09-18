@@ -5,13 +5,32 @@ permalink: /publications/
 ---
 
 <p><h1>Publications</h1></p>
+<h2>2024</h2>
+<ul>
+ <li><b>How Developments in Natural Language Processing Help Us Understand Human Behavior</b><br>
+Rada Mihalcea, Laura Biester, Ryan Boyd, Zhijing Jin, Veronica Perez-Rosas, Steven Wilson and James Pennebaker <br>
+<font size = "-1"><em>Nature Human Behavior 2024</em></font> <br>
+ </li>
+ <li><b>OUNLP at SemEval-2024 Task 9: Retrieval-Augmented Generation for Solving Brain Teasers with LLMs</b><br>
+Vineet Saravanan, and Steven Wilson <br>
+<font size = "-1"><em>n Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024) Jun 2024</em></font> <br>
+ </li>
+ <li><b>Representation and Generation of Machine Learning Test Functions</b><br>
+Souha Ben Hassine, and Steven Wilson <br>
+<font size = "-1"><em>In Proceedings of the EACL Student Research Workshop Mar 2024</em></font> <br>
+ </li>
+ <li><b>Identifying Narrative Content in Podcast Transcripts</b><br>
+Yosra Abdessamed, Shadi Rezapour, and Steven Wilson <br>
+<font size = "-1"><em>In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics Mar 2024</em></font> <br>
+ </li>
+</ul>
+
 <h2>2023</h2>
 <ul>
 
 <li><b>Narrative Style and the Spread of Health Misinformation on Twitter</b><br>
 Achyutarama R. Ganti<sup>1</sup>, Eslam Ali Hassan Hussein<sup>1</sup>, Steven Wilson, Zexin Ma, Xinyan Zhao <br>
 <font size = "-1"><em>In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Findings Dec 2023</em></font> <br>
-
  </li>
  
 <li><b>ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments</b><br>
