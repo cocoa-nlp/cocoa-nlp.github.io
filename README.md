@@ -1,4 +1,4 @@
-# ou-nlp.github.io
+# cocoa-nlp.github.io
 
 Currently the process to add yourself to the website is just to send a message to Achyut on Discord with the following:
 - Name
