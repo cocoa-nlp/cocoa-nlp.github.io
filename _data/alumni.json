@@ -1,1 +1,34 @@
-
+[{
+    "name": "Jood Otey",
+    "position": "MS Student",
+    "image": "jood.jpg",
+    "email": "joodotey@oakland.edu",
+    "github": "https://github.com/wetey",
+    "linkedin": "https://www.linkedin.com/in/joodotey"
+  },
+  
+  {
+    "name": "Yosra Abdessamed",
+    "position": "Research Intern",
+    "image": "yosra.jpg",
+    "email": "yosra.abdessamed@insat.ucar.tn",
+    "github": "https://github.com/Yosra1998",
+    "linkedin": "https://www.linkedin.com/in/yosra-abdessamed-10a066190/"
+  },
+  {
+    "name": "Zeineb Moalla",
+    "position": "UG Researcher",
+    "image": "zeineb.jpg",
+    "email": "zeinebmoalla@oakland.edu",
+    "github": "https://github.com/Zeineb-Moalla",
+    "linkedin": "https://www.linkedin.com/in/zeineb-moalla-660465175/"
+  },
+  {
+    "name": "Matthew Hummel",
+    "position": "UG Student",
+    "image": "hummel.png",
+    "email": "matthewhummel@oakland.edu",
+    "github": "https://github.com/MatthewHummel",
+    "linkedin": "https://www.linkedin.com/in/matthew-hummel-9777a4195/"
+  }
+]
