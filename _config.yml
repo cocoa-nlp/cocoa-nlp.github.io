@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "CoCoA Lab"
 title_separator          : "-"
-subtitle                 : "Computational Communication Analysis Lab" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Computational Communication Analysis Lab"
 description              : "CoCoA Lab"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
